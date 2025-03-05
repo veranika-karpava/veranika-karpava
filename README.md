@@ -1,7 +1,7 @@
 # Hi there, I'm Veranika! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 32px height='32px'> 
 
-* 👩‍💻 a Front-End | Full Stack Developer based in Greater Vancouver area, Canada.  
-* 🌱 I’m currently learning Next.js & Redux.
+* 👩‍💻 a Full Stack Developer based in Greater Vancouver area, BC, Canada.  
+* 🌱 I’m currently learning Redux and React Query.
 * 🙌 Looking for opportunities to grow and become a better developer!
 
 # My Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
